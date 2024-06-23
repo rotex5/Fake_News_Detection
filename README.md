@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project, we utilized a diverse set of 29 machine learning algorithms to evaluate the veracity of news articles, enhancing the reliability and trustworthiness of information shared on social media platforms.
+In this project, a diverse set of 29 machine learning algorithms were utilized to evaluate the veracity of news articles, enhancing the reliability and trustworthiness of information shared on social media platforms.
 
 ## Algorithms Used
 
