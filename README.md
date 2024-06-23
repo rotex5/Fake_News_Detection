@@ -53,11 +53,15 @@ To set up the project on your local machine, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/rotex5/Fake_News_Detection.git
-   cd Fake_News_Detection
- 
+
+2. **Run Jupter NoteBook:**
+   ```
+   Run Jupter notebook application and navigate via browser to `Fake_News_Detection` directory
+   Run Notebooks
+
 ## Results
 
-The performance of each model is evaluated based on various metrics such as accuracy, precision, recall, F1-score and more. Detailed results and visualizations can be viewed as soon as notebooks finish executing.
+The performance of each model is evaluated based on various metrics such as accuracy, precision, recall, F1-score and more. Detailed results and visualizations can be viewed as soon as notebooks is done executing.
 
 ## Contributing
 
